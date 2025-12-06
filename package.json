@@ -1,0 +1,16 @@
+{
+  "name": "lazarus-master",
+  "version": "1.0.0",
+  "description": "Lazarus Master Terminal - AI-powered business optimization system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["lazarus", "ai", "business"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
